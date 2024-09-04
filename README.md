@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marijanataseska" alt="marijanataseska" /></a> </p>
 
-- 🌱 I’m currently learning **Currently diving into Advanced React Sprint for the Full Stack Development course**
+- 🌱 I have completed the Full Stack Web Development program at Bloom Institute of Technology and am currently seeking opportunities in full stack web development.
 
 - 📫 How to reach me **marijana.taseska@gmail.com**
 
