@@ -3,12 +3,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marijanataseska" alt="marijanataseska" /></a> </p>
 
-- 🌱 I have completed the Full Stack Web Development program at Bloom Institute of Technology and am currently seeking opportunities in full stack web development.
+- 🌱 I’m currently completing **the Full Stack Web Development program at Bloom Institute of Technology.**
 
 - 📫 How to reach me **marijana.taseska@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/marijana235479" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marijana235479" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/marijana-mirchevski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/marijana-mirchevski" height="30" width="40" /></a>
 <a href="https://instagram.com/marijanamirchevski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marijanamirchevski" height="30" width="40" /></a>
 </p>
 
